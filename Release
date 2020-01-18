@@ -1,0 +1,8 @@
+Origin: CydiaThailand
+Label: CydiaThailand
+Suite: stable
+Version: 1.0
+Codename: C_m0de
+Architectures: iphoneos-arm
+Components: main
+Description: https://cydiathailand.github.com/
